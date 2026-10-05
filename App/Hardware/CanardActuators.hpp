@@ -1,2 +1,3 @@
-// File: CanardActuators.hpp
-// Auto-generated for ASTRA-PGK Firmware
+#pragma once
+#include "MathTypes.hpp"
+void CanardActuators_SetDeflection(Vector3 cmd);
